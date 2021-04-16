@@ -1,0 +1,10 @@
+{
+    "name": "vedro-compota/test-func",
+    "description": "for testing",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require-dev": {
+        "codeception/codeception": "^4.1"
+    }
+}
